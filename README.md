@@ -1,5 +1,5 @@
-# img_paste.py
-
+image paste
+---------
 > paste image to other image <br/>
 > image format is ___png___
 > ```
@@ -7,7 +7,8 @@
 > $ python3 img_paste.py
 > ```
 
-# Getting Started
+Getting Started
+---------------
 ```
 $ git clone https://github.com/lyjourney/video2frame.git
 $ cd video2frame
