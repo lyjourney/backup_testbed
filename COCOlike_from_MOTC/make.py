@@ -24,7 +24,6 @@ def GtToJson(inputfile, width=768, height=576):
     """
     f = open(inputfile, 'r')
     lines = f.readlines()
-    f'test'
     entire = []
     last_index = -1
     is_first = True
