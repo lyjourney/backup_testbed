@@ -18,7 +18,7 @@ blank_img.convert('RGBA')
 blank_img.paste(car_origin,(1000,100),car_origin)
 
 conv = blank_img.convert('RGB')
-conv.save("test.jpg")
+conv.save("result.jpg")
 
 #car_np = np.asarray(car_origin).copy()
 # car_np[car_np[:,:,3]<=150] = 0
